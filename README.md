@@ -7,6 +7,7 @@ The candidate is required to:
 - Make the banner area show a thank you message when the for is submitted.
 - Show a validation error if there is a problem with the form.
 - We have added some sections and a form to get you started.
+- Images, Text, Colours and dimensions can all be found in the Zeplin files.
 
 
 # Steps
@@ -25,8 +26,6 @@ Password: ----
 - Thank you desktop: zpl.io/2EgDBAM
 - Thank you mobile: zpl.io/2j515d6
 
-4. Images, Text, Colours and dimensions can all be found in the Zeplin files.
-
-5. Send us a link to the Github repo where the code is and make it public.
+4. Send us a link to the Github repo where the code is and make it public.
 
 
