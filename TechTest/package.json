@@ -1,0 +1,20 @@
+{
+  "name": "tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makeitcheaper",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp-cli": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
