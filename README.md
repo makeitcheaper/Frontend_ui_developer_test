@@ -6,6 +6,7 @@ The candidate is required to:
 - Build the page using either the starter template provided in Github or can create the template using Ruby on Rails.
 - Make the banner area show a thank you message when the for is submitted.
 - Show a validation error if there is a problem with the form.
+- We have added some sections and a form to get you started.
 
 
 # Steps
