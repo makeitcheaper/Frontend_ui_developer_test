@@ -26,11 +26,3 @@ gulp.watch(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'], ['
 });
 //start server
 gulp.task('default',['js','serve']);
-
-
-
-// gulp.task('serve', function() {
-//     browserSync.init({
-//        proxy: "http://localhost/mydir"
-//     });
-// });
