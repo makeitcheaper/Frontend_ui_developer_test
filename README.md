@@ -17,10 +17,10 @@ The candidate is required to:
 Email: recruitment@makeitcheaper.com
 Password: ----
 
-Landing Desktop: zpl.io/agQZzGZLanding
-Mobile: zpl.io/2j515d6
-Thank you desktop: zpl.io/2EgDBAM
-Thank you mobile: zpl.io/2j515d6
+- Landing Desktop: zpl.io/agQZzGZLanding
+- Mobile: zpl.io/2j515d6
+- Thank you desktop: zpl.io/2EgDBAM
+- Thank you mobile: zpl.io/2j515d6
 
 3. Images, Text, Colours and dimensions can all be found in the Zeplin files.
 
