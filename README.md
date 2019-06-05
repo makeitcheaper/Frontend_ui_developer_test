@@ -13,10 +13,10 @@ The candidate is required to:
 # Steps
 
 1. Clone the starter template from https://github.com/makeitcheaper/Frontend_ui_developer_test .
-2. Go to the root/TechTest folder in terminal
-3. Type `npm install` to install the dependencies
-4. Type `gulp` to run the started project
-3. Login to Zeplin and view the page that needs to be created.
+2. Type `npm install` to install the dependencies
+3. Type `parcel index.html` to run the started project
+4. Vist `http://localhost:1234/`
+5. Login to Zeplin and view the page that needs to be created.
 
     Email: recruitment@makeitcheaper.com
     Password: ----
