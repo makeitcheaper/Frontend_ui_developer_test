@@ -14,7 +14,7 @@ The candidate is required to:
 
 1. Clone the starter template from https://github.com/makeitcheaper/Frontend_ui_developer_test .
 
-2. Run the project by going to the root folder in terminal and typing `gulp`
+2. Run the project by going to the root/TechTest folder in terminal and typing `gulp`
 
 3. Login to Zeplin and view the page that needs to be created.
 
