@@ -6,9 +6,18 @@ The candidate is required to:
 - Build the page using either the starter template provided on Github or can create the template using Ruby on Rails.
 - Make the banner area show a thank you message when the form is submitted.
 - Show a validation error if there is a problem with the form.
+
+# Notes
 - We have added some sections and a form to get you started.
 - Images, Text, Colours and dimensions can all be found in the Zeplin files.
 
+#dependencies
+
+- Node.js - 10.16.0 -> 12.4.0
+- bootstrap - 4.3.1
+- jquery - 3.4.1
+- parcel
+- npm
 
 # Steps
 
@@ -26,4 +35,5 @@ The candidate is required to:
     - Thank you desktop: zpl.io/2EgDBAM
     - Thank you mobile: zpl.io/2j515d6
 
-4. Send us a link to the Github repo where the code is and make it public.
+6. Add your SCSS in `src/scss/styles.scss`
+7. Send us a link to the Github repo where the code is and make it public.
