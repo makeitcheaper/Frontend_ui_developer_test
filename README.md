@@ -27,7 +27,7 @@ The candidate is required to:
 4. Vist `http://localhost:1234/`
 5. Add your SCSS in `src/scss/styles.scss`
 
-# Zeplin stepes
+# Zeplin steps
 
 1. Go to https://app.zeplin.io/project/5cf8fb2d4cc7cf11d79ae8c8
 2. Login to Zeplin and view the page that needs to be created.
